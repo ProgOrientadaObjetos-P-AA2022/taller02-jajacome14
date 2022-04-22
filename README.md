@@ -10,7 +10,7 @@
 	 	* nombres, 
 	 	* apellidos, 
 	 	* sueldo
-	 	* dni
+	 	* dnid
 	* Comportamientos, métodos: 
 		* establecerNombres
 		* establecerApellidos
@@ -58,7 +58,14 @@ Se debe relacionar la clase con las objetos.
 
 ## Problema 4
 
-Para un sistema posterior, es necesario abstraer las características de dispositivos electrónicos como los son los Equipo Celulares. Cada Equipo Celular tienen como características: sistema operativo, tamaño de pantalla, costo, dirección mac, información IMEI. Se necesita representar mediante un diagrama de clase y objetos (3). No es necesario agregar los comportamientos en los objetos. Se debe relacionar la clase con las objetos. 
+Para un sistema posterior, es necesario abstraer 
+las características de dispositivos electrónicos como
+ los son los Equipo Celulares. Cada Equipo Celular tienen
+ como características: sistema operativo, tamaño de pantalla, 
+costo, dirección mac, información IMEI. Se necesita representar
+ mediante un diagrama de clase y objetos (3). 
+No es necesario agregar los comportamientos en los objetos. 
+Se debe relacionar la clase con las objetos. 
 
 ### Considerar: 
 - Los datos deben ser protegidos y los comportamientos públicos
@@ -66,7 +73,11 @@ Para un sistema posterior, es necesario abstraer las características de disposi
  
 ## Problema 5
 
-Se requiere administrar los escenarios deportivos de la ciudad de Loja. Se ha realizado un análisis, cada escenario tiene propiedades como: nombre, número de espectadores, dirección, número de locales comerciales, número de puertas de entrada, número de camerinos. Se quiere realizar una representación entre la clase y 4 objetos.
+Se requiere administrar los escenarios deportivos de la ciudad de Loja. 
+Se ha realizado un análisis, cada escenario tiene propiedades como: nombre,
+ número de espectadores, dirección, número de locales comerciales, número de
+ puertas de entrada, número de camerinos. Se quiere realizar una representación
+ entre la clase y 4 objetos.
 ### Considerar:
 - Los datos deben ser privados y los comportamientos privados
 - Agregar en la carpeta respectiva el archivo DIAUML y la imagen exportada**
